@@ -1,0 +1,7 @@
+SVM for patch classification :-
+
+SVM_GAMMA:  0.001
+SVM_C	 :  100
+
+
+
